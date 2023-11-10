@@ -1,0 +1,18 @@
+body {
+    height: 100vh;
+    margin: 0;
+    background-color: #ececec;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#root {
+    height: 100%;
+}
+
+.container {
+    height: 100%;
+    width: 960px;
+    margin: 0 auto;
+    padding: 16px;
+    background-color: #fff;
+}
